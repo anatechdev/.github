@@ -7,7 +7,7 @@ Conteúdos sobre Tecnologia e Desenvolvimento Web Front-end no Instagram [@ana.t
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 
 💻 <br>
-Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br/)
+Ana Maria | [www.anamaria.dev.br](https://www.anamaria.dev.br/)
 
 <!--
 
