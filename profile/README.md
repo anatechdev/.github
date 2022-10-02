@@ -2,7 +2,9 @@
 
 ### Ana Maria | Tecnologia e Desenvolvimento Front-end
 
-Conteúdos sobre Tecnologia e Desenvolvimento Front-end no Instagram [@ana.tech.dev](https://www.instagram.com/ana.tech.dev). Por mais mulheres na tecnologia!
+Conteúdos sobre Tecnologia e Desenvolvimento Front-end no Instagram [@ana.tech.dev](https://www.instagram.com/ana.tech.dev). <br>
+
+Buscando promover iniciativas para o ingresso de mais mulheres na tecnologia. Por mais mulheres na tecnologia!
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 
